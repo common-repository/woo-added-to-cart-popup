@@ -1,0 +1,79 @@
+.ocwatcp-heading {
+    background-color: #0c365db5;
+    padding: 8px 0px 10px 10px;
+    color: #fff;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.ocwatcp-container h2 {
+    display: block;
+    font-size: 30px !important;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 700 !important;
+    text-align: center;
+}
+
+p.ocwatcp-heading {
+    font-size: 20px !important;
+    font-weight: 600;
+    margin: 0;
+}
+.ocwatcp-inner-block {
+    background-color: #ffffff;
+    padding: 0 10px;
+    max-width: 1000px;
+    flex-grow: 1;
+}
+.ocwatcp-inner-block ul.tabs{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.ocwatcp-inner-block ul.tabs li{
+    background: none;
+    display: inline-block;
+    cursor: pointer;
+    font-weight: 600;
+    margin-bottom: 0;
+    border: 1px solid #d8d8d8;
+    margin-left: 0px;
+    margin-right: 2px;
+    background: #fff;
+    color: #222;
+    font-size: 17px;
+    padding: 10px;
+    cursor: pointer;
+}
+.ocwatcp-inner-block ul.tabs li.current{
+    color: #fff;
+    border: 1px solid #ccc;
+    background-color:#494d4e;
+    border-bottom: 0px;
+}
+.ocwatcp-inner-block .tab-content{
+    display: none;
+}
+.ocwatcp-inner-block .tab-content.current{
+    display: inherit;
+    border-top: 1px solid #d8d8d8;
+}
+p.ocwatcp-tips {
+    margin: 2px 0 5px !important;
+    color: #666;
+    font-size: 12px !important;
+    font-style: italic;
+}
+input#ocwatcp-btn-space {
+    margin: 25px 0px;
+}
+.ocwatcp_delivery_date_admin strong {
+    color: #000;
+}
+input.ocwatcp_msg {
+    width: 70% !important;
+}
+#ocwatcp-space{
+height: 10px;
+}
